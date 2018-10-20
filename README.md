@@ -1,4 +1,4 @@
-# Learn-Portuguese-in-10-Days
+# Learn Portuguese in 10 Days [葡语十日入门]
 
 An introductory Portuguese course for Chinese autodidacts
 
