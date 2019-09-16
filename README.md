@@ -1,9 +1,9 @@
-# Learn Portuguese in 10 Days [葡语十日入门]
+# Learn Portuguese in 10 Days | 葡语十日入门
 
 An introductory Portuguese course for Chinese autodidacts
 
-http://italian.org.cn/app/
+为中国自学者编写的葡语入门课程
 
-http://dictware.co.nf
+www.italian.org.cn/app/
 
-http://lusophone.co.nf
+www.zhangyichi.com
