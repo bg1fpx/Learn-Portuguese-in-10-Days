@@ -7,5 +7,3 @@ An introductory Portuguese course for Chinese autodidacts
 www.italian.org.cn/app/
 
 www.zhangyichi.com
-
-portuguese.coolpage.biz
